@@ -3,5 +3,5 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-#assets
-\todolist_app\assets
+# ignore assets
+assets/ 
